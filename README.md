@@ -2,7 +2,7 @@
 
 > 60% keyboard build specs
 
-## Parts
+## Hardware
 
 * [PCB](https://kbdfans.com/collections/60/products/dz60-60-pcb) - $40
   * **NOTE:** Get Cherry Stabilizer add-on
@@ -14,3 +14,7 @@ Two options for Case:
 
 * [Aluminum Case](https://kbdfans.com/collections/60-layout-case/products/customized-gh60-aluminum-case) - $45
 * [Plastic Case](https://kbdfans.com/collections/60-layout-case/products/60-plastic-case) - $15
+
+## Software
+
+* [QMK](https://docs.qmk.fm/#/)
