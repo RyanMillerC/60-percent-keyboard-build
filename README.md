@@ -4,7 +4,7 @@
 
 ## Parts
 
-* [PCB](https://kbdfans.com/collections/60/products/dz60-60-pcb) - $38
+* [PCB](https://kbdfans.com/collections/60/products/dz60-60-pcb) - $40
   * **NOTE:** Get Cherry Stablizer add-on
 * [Plate](https://kbdfans.com/collections/plate/products/dz60-cnc-aluminum-plate) - $18
   * **NOTE:** Variation B
