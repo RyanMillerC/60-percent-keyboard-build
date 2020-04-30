@@ -21,7 +21,7 @@ with MX Cherry stem keycaps.
 * [Cherry Stabilizers](https://novelkeys.xyz/products/cherry-stabilizers?variant=3747938926632) - $11
   * **NOTE:** Build will require 4x 2u stabilizers and 1x 6.25u stabilizer
 
-**Total Cost: $135-$180**
+**Total Cost:** $135-$180
 
 ### Low Budget Build
 
@@ -32,7 +32,7 @@ with MX Cherry stem keycaps.
 * [Plastic Case](https://kbdfans.com/collections/60-layout-case/products/60-plastic-case) - $15
 * [Switches](https://kbdfans.com/collections/switches/products/switch-68-cherry-gateron-zealio) - $14 (Gateron)
 
-**Total Cost: $87**
+**Total Cost:** $87
 
 ## Software
 
