@@ -19,7 +19,7 @@ with MX Cherry stem keycaps.
 * [Aluminum Case](https://kbdfans.com/collections/60-layout-case/products/customized-gh60-aluminum-case) - $45
 * [Switches](https://kbdfans.com/collections/switches/products/switch-68-cherry-gateron-zealio) - $23-$68 (Cherry/ZealPC)
 * [Cherry Stabilizers](https://novelkeys.xyz/products/cherry-stabilizers?variant=3747938926632) - $11
-  * **NOTE:** Build will require 4x 2u stabilizers and 1x 6.25u stabilizer
+  * **NOTE:** Build will require PCB mounted stabilizers: 4x 2u, 1x 6.25u
 
 **Total Cost:** $135-$180
 
